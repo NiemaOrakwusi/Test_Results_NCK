@@ -1,0 +1,5 @@
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Results_Niema_Kitt\Test_Results_Niema_Kitt\bin\Test_Results_Niema_Kitt.dll
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Results_Niema_Kitt\Test_Results_Niema_Kitt\bin\Test_Results_Niema_Kitt.pdb
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Results_Niema_Kitt\Test_Results_Niema_Kitt\obj\Debug\Test_Results_Niema_Kitt.csprojResolveAssemblyReference.cache
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Results_Niema_Kitt\Test_Results_Niema_Kitt\obj\Debug\Test_Results_Niema_Kitt.dll
+c:\users\god's blessing\documents\visual studio 2012\Projects\Test_Results_Niema_Kitt\Test_Results_Niema_Kitt\obj\Debug\Test_Results_Niema_Kitt.pdb
